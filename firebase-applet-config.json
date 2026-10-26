@@ -1,12 +1,12 @@
 {
-  "projectId": "cogent-discovery-clcf1",
-  "appId": "1:406539687274:web:43425e9c47c0b9dd998113",
-  "apiKey": "AIzaSyCejMxnmYllTgcb1OBjB7rQYeAjzeo-raA",
-  "authDomain": "cogent-discovery-clcf1.firebaseapp.com",
-  "firestoreDatabaseId": "ai-studio-naddd-22e68371-7102-4a40-8bba-c9a812abeaa7",
-  "storageBucket": "cogent-discovery-clcf1.firebasestorage.app",
-  "messagingSenderId": "406539687274",
-  "measurementId": "",
-  "oAuthClientId": "406539687274-meq8cmorqjpeej6be5k9cdqpsnfbmaej.apps.googleusercontent.com",
+  "projectId": "naddd-6767",
+  "appId": "1:90854633482:web:3694201b0c707260bd6ff3",
+  "apiKey": "AIzaSyDkwS3yPRMBVJrJxsF7Vt1Q9dQ9W7_Dx7A",
+  "authDomain": "naddd-6767.firebaseapp.com",
+  "firestoreDatabaseId": "(default)",
+  "storageBucket": "naddd-6767.firebasestorage.app",
+  "messagingSenderId": "90854633482",
+  "measurementId": "G-EDQMXWKVVF",
+  "oAuthClientId": "12113730648-65ohn4vrv43nma9fug7kk1iin430q2ub.apps.googleusercontent.com",
   "recaptchaSiteKey": ""
 }
